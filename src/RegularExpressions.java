@@ -12,6 +12,7 @@ public class RegularExpressions {
         String commandValues[] = command.split(",");
         for (String command2 : commandValues) {
             System.out.println(command2 + "lol");
+            int hallo;
         }
 
     }
